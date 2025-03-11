@@ -46,7 +46,7 @@ Note: HTTP sink type is deprecated from Firehose version 0.8.11 onwards. Please 
 
 ### Supported methods
 
-Firehose supports `PUT` and `POST` verbs in its HTTP sink. The method can be configured using [`SINK_HTTP_REQUEST_METHOD`](../sinks/http-sink.md#sink_http_request_method).
+Firehose supports `PUT` and `POST` verbs in its HTTP sink. The method can be configured using [`xxSINK_HTTP_REQUEST_METHOD`](../sinks/http-sink.md#sink_http_request_method).
 
 ### Authentication
 
